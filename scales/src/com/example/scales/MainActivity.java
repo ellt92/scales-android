@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		int testing = 0;
+		int secondtest = 0;
 	}
 
 	@Override
